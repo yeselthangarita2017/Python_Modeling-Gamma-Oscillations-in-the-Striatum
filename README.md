@@ -1,4 +1,4 @@
-# NeuromatchAcademy2020
+# Simulation of a gamma oscillation at Neuromatch Academy 2020-Computational Neuroscience Intensive Summer Course 
 Modeling gamma oscillations using Python and Google Colab. By: Daniela Monje, Lorenzo Gutierrez, Alex Legaria, and Yeselth Angarita-Peña. Based on the reading of Introduction to Modeling Neuronal Dynamics book by Christoph Börgers.
 
 # Ideas
