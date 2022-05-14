@@ -1,4 +1,4 @@
-# Simulation of a gamma oscillation using the Hodgkin and Huxley model | Neuromatch Academy 2020 | Computational Neuroscience Summer Course 
+# Simulation of a gamma oscillation using the Hodgkin and Huxley model | Neuromatch Academy 2020: Computational Neuroscience Summer Course |  Interactive Student
 Modeling gamma oscillations using Python and Google Colab. By: Daniela Monje, Lorenzo Gutierrez, Alex Legaria, and Yeselth Angarita-Peña. Based on the reading of Introduction to Modeling Neuronal Dynamics book by Christoph Börgers.
 
 # Ideas
@@ -19,4 +19,4 @@ We simulated a gamma oscillation by connecting an excitatory and an inhibitory c
 <br>
 * Lots of meetings! <br>
 * Hard to pin down a specific question (we learned so much in NMA!) <br>
-* We were able to implement models that inially seemed really daunting.
+* We were able to implement models that initally seemed really daunting.
