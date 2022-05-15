@@ -10,6 +10,14 @@ Objective: Understand emergent network properties.
 <br>
 * Up and down states in the striatum.
 
+# Contributions 
+<br> 
+My contributions and responsabilities were: 
+<b> 
+1. Developed the code for the project. 
+2. Organized, designed, and developed the project. 
+3. Presented the results to stakeholders and interdisciplinary audience. 
+
 # Results 
 <br> 
 We simulated a gamma oscillation by connecting an excitatory and an inhibitory cell using the Hodgkin and Huxley model.
@@ -20,3 +28,7 @@ We simulated a gamma oscillation by connecting an excitatory and an inhibitory c
 * Lots of meetings! <br>
 * Hard to pin down a specific question (we learned so much in NMA!) <br>
 * We were able to implement models that initally seemed really daunting.
+
+# Acknowledgement 
+<br> 
+All the project members contributed equally.
