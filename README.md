@@ -13,11 +13,13 @@ Objective: Understand emergent network properties.
 # Contributions 
 <br> 
 My contributions and responsabilities were: 
-<b> 
-1. Developed the code for the project. 
-2. Organized, designed, and developed the project. 
-3. Presented the results to stakeholders and interdisciplinary audience. 
 
+<br> 
+1. Developed the code for the project. <br>
+2. Organized, designed, and developed the project. <br>
+3. Presented the results to stakeholders and interdisciplinary audience. <br>
+
+  
 # Results 
 <br> 
 We simulated a gamma oscillation by connecting an excitatory and an inhibitory cell using the Hodgkin and Huxley model.
