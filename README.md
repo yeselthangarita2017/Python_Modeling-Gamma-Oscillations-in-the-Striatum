@@ -15,8 +15,8 @@ Objective: Understand emergent network properties.
 My contributions and responsabilities were: 
 
 <br> 
-1. Developed the code for the project. <br>
-2. Organized, designed, and developed the project. <br>
+1. Developed parts of code for the project. <br>
+2. Organized, designed, and developed sections of the project. <br>
 3. Presented the results to stakeholders and interdisciplinary audience. <br>
 
   
