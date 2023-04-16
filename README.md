@@ -9,7 +9,7 @@ Modeling gamma oscillations using the Hodgkin and Huxley model developed from st
 Objective: Understand emergent network properties.
 <br>
 <br>
-* How do neural oscillations emerge?
+*How do neural oscillations emerge?
 <br>
 * Up and down states in the striatum.
 
