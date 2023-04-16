@@ -1,4 +1,7 @@
 # Simulation of a gamma oscillation using the Hodgkin and Huxley model | Neuromatch Academy 2020: Computational Neuroscience Summer Course |  Interactive Student
+
+This analysis was done as the final project for the [2020 Neuromatch Academy-Computational Neuroscience](https://academy.neuromatch.io/nma2020) worlwide summer course.
+
 Modeling gamma oscillations using the Hodgkin and Huxley model developed from studies in the relatively gigantic axon of a Squid. The code was written in Python using Google Colab. By: Daniela Monje, Lorenzo Gutierrez, Alex Legaria, and Yeselth Angarita-Peña. Based on the reading of Introduction to Modeling Neuronal Dynamics book by Christoph Börgers and the mentorship of Dr. Kresimir Josic, Professor from the Department of Mathematics at the University of Houston. 
 
 # Ideas
