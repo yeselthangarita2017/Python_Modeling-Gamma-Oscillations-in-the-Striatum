@@ -26,6 +26,3 @@ We simulated a gamma oscillation by connecting an excitatory and an inhibitory c
 * Lots of meetings! <br>
 * Hard to pin down a specific question (we learned so much in NMA!) <br>
 * We were able to implement models that initally seemed really daunting.
-
-## Acknowledgement 
-All the project members contributed equally.
