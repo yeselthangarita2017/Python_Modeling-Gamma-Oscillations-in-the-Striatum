@@ -2,9 +2,7 @@
 
 This analysis was done as the final project for the [2020 Neuromatch Academy-Computational Neuroscience](https://academy.neuromatch.io/nma2020) worlwide summer course.
 
-Modeling gamma oscillations using the Hodgkin and Huxley model developed from studies in the relatively gigantic axon of a Squid. 
-
-The code was written in Python using Google Colab by: Daniela Monje, Lorenzo Gutierrez, Alex Legaria, and Yeselth Angarita-Peña following/based on readings of [Introduction to Modeling Neuronal Dynamics book by Christoph Börgers](https://link.springer.com/book/10.1007/978-3-319-51171-9) and the mentorship of Dr. Kresimir Josic, Professor from the Department of Mathematics at the University of Houston. 
+Modeling gamma oscillations using the Hodgkin and Huxley model developed from studies in the relatively gigantic axon of a Squid. The code was written in Python using Google Colab by following/based on readings of [Introduction to Modeling Neuronal Dynamics book by Christoph Börgers](https://link.springer.com/book/10.1007/978-3-319-51171-9) and with the guidance of Dr. Kresimir Josic, Professor from the Department of Mathematics at the University of Houston. 
 
 ## Ideas
 Objective: Understand emergent network properties.
@@ -12,7 +10,7 @@ Objective: Understand emergent network properties.
 * Up and down states in the striatum.
 
 ## Contributions 
-My contributions and responsabilities were: 
+Some of my contributions and responsabilities were: 
 
 1. Developed parts of code for the project. <br>
 2. Organized, designed, and developed sections of the project. <br>
@@ -26,6 +24,3 @@ We simulated a gamma oscillation by connecting an excitatory and an inhibitory c
 * Lots of meetings! <br>
 * Hard to pin down a specific question (we learned so much in NMA!) <br>
 * We were able to implement models that initally seemed really daunting.
-  
-## Acknowledgement 
-All the project members contributed equally.
