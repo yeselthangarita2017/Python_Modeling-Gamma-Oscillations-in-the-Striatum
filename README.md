@@ -10,7 +10,7 @@ Objective: Understand emergent network properties.
 * Up and down states in the striatum.
 
 ## Contributions 
-Some of my contributions and responsabilities were: 
+Some contributions and responsabilities were: 
 
 1. Developed parts of code for the project. <br>
 2. Organized, designed, and developed sections of the project. <br>
